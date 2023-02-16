@@ -1,0 +1,17 @@
+.app {
+  height: 100vh;
+}
+#light {
+  background-color: rgb(157, 235, 255);
+}
+#dark {
+  background-color: rgba(1, 0, 20, 0.808);
+}
+.switch {
+  /* margin-right: 2px;
+  justify-items: end;
+  flex-direction: row-reverse;
+  margin-top: 10px;
+  z-index: 1; */
+  position: absolute;
+}

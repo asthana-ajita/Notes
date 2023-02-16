@@ -1,0 +1,19 @@
+.Topheader{
+    font-family:  "Times New Roman", Times, serif;
+    color:rgb(0, 70, 96)
+   
+}
+#light1 {
+    background-color: rgba(0, 155, 198, 0.632);
+    color:rgb(10, 30, 48)
+}
+#dark1{
+    background-color: rgba(15, 14, 40, 0.717);
+    color:rgb(235, 236, 237)
+}
+#lightnavbarDropdown{
+    color:rgb(0, 38, 71)
+}
+#darknavbarDropdown{
+    color:rgb(181, 220, 255)
+}

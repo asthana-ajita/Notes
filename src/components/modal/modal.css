@@ -1,0 +1,11 @@
+.circle{
+    width: 24px;
+    height: 24px;
+    border-radius: 50%;
+}
+#light{
+    background-color: rgb(206, 245, 255);
+}
+#dark{
+    background-color: rgb(2, 0, 34);
+}
